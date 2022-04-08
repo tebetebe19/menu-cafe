@@ -614,7 +614,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="d-items">
                            <div class="card-image-1 mod-b">
-                               <a href="blog-single.html" class="d-text">
+                               <a href="blog/detail" class="d-text">
                                    <div class="d-inner">
                                         <span class="atr-date">Dec 10, 2021</span>
                                         <h3>This Will Fundamentally Change the Way You Look at Coffee</h3>
@@ -629,7 +629,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="d-items">
                            <div class="card-image-1 mod-b">
-                               <a href="blog-single.html" class="d-text">
+                               <a href="blog/detail" class="d-text">
                                    <div class="d-inner">
                                         <span class="atr-date">Dec 10, 2021</span>
                                         <h3>7 Cult-Favorite Coffee Products You Should Know</h3>
@@ -644,7 +644,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="d-items">
                            <div class="card-image-1 mod-b">
-                               <a href="blog-single.html" class="d-text">
+                               <a href="blog/detail" class="d-text">
                                    <div class="d-inner">
                                         <span class="atr-date">Dec 10, 2021</span>
                                         <h3>14 Unbelievable Things You Never Knew About Coffee</h3>
@@ -659,7 +659,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="d-items">
                            <div class="card-image-1 mod-b">
-                               <a href="blog-single.html" class="d-text">
+                               <a href="blog/detail" class="d-text">
                                    <div class="d-inner">
                                         <span class="atr-date">Dec 10, 2021</span>
                                         <h3>The Best Type of Coffee for Every Zodiac Sign</h3>
@@ -674,7 +674,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="d-items">
                            <div class="card-image-1 mod-b">
-                               <a href="blog-single.html" class="d-text">
+                               <a href="blog/detail" class="d-text">
                                    <div class="d-inner">
                                         <span class="atr-date">Dec 10, 2021</span>
                                         <h3>Some Feel-Good News About Coffee to Brighten Your Day</h3>
