@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-    <title>$313 / Rp 4.500.000</title>
+    <title>$313 / Rp 4.500.000 (Stradale)</title>
     <link rel="icon" href="{{asset('assets/img/icon.png')}}" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
