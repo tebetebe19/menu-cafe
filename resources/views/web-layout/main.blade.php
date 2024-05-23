@@ -2,8 +2,8 @@
 <html lang="zxx">
 
 <head>
-    <title>$313 / Rp 4.500.000 (Stradale)</title>
-    <link rel="icon" href="{{asset('assets/img/icon.png')}}" type="image/gif" sizes="16x16">
+    <title>Menu - Cafe</title>
+    <link rel="icon" href="{{ asset('assets/img/icon.png') }}" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="" name="description" />
@@ -28,11 +28,11 @@
         @include('web-layout.topbar')
 
         @yield('content')
-        
+
         <a href="#" id="back-to-top"></a>
         @include('web-layout.footer')
     </div>
-    
+
     <!-- Javascript Files
     ================================================== -->
     <script src=" {{ asset('assets/js/jquery.min.js') }}"></script>
@@ -40,4 +40,5 @@
     <script src=" {{ asset('assets/js/plugins.min.js') }}"></script>
     <script src=" {{ asset('assets/js/designesia.js') }}"></script>
 </body>
+
 </html>
